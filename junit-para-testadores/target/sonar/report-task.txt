@@ -2,5 +2,10 @@ projectKey=com.allanteixeira:junit-para-testadores
 serverUrl=http://localhost:9000
 serverVersion=8.2.0.32929
 dashboardUrl=http://localhost:9000/dashboard?id=com.allanteixeira%3Ajunit-para-testadores
+<<<<<<< HEAD
 ceTaskId=AXDAz1h6ogApZ5tzayOs
 ceTaskUrl=http://localhost:9000/api/ce/task?id=AXDAz1h6ogApZ5tzayOs
+=======
+ceTaskId=AXDA2IxYogApZ5tzayOt
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXDA2IxYogApZ5tzayOt
+>>>>>>> 31a134db0f4e7e66f0c65901abc8a33893dac1b3
